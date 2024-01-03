@@ -1,0 +1,13 @@
+img{
+    height: 250px;
+    margin-left: 25px;
+}
+h1{
+    background-color: yellowgreen;
+    text-align: center;
+}
+p{
+    background-color: aqua;
+    font-size: larger;
+    text-align: justify;
+}
